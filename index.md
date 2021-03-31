@@ -8,8 +8,8 @@ https://cs.rin.ru/forum/search.php?st=0&sk=t&sd=d&sr=topics&keywords=quest+oculu
 
 # Header 1
 
-[Link](https://cs.rin.ru/forum/search.php?st=0&sk=t&sd=d&sr=topics&keywords=quest+oculus+quest&fid%5B%5D=38&sf=titleonly) and ![Image](src)
-```
+[Link](https://cs.rin.ru/forum/search.php?st=0&sk=t&sd=d&sr=topics&keywords=quest+oculus+quest&fid%5B%5D=38&sf=titleonly)
+
 
 
 
